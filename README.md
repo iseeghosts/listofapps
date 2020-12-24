@@ -14,5 +14,5 @@ While it's not exactly stable yet, but in terms of functionality and features, t
 ## Quickpad or Notepads
 Windows Notepad app has been there since Windows xp (or maybe even older than that), and the updates it gets are far from even minor improvements so the users built there own, while these app aren't traditional looking app, there are fast, with still some issues to resolve, I am certain that they'll outcast the native app once ready. Both are hosted on github or Store.
 ### Quick Pad
-<a href="https://www.microsoft.com/store/productId/9PDLWQHTLSV3"><img align="left" src="./assets/get it on store.png"></a>
-<a href="https://github.com/yaichenbaum/Quick-Pad/releases"><img align="right" src="./assets/view on github.jpg"></a>
+<a href="https://www.microsoft.com/store/productId/9PDLWQHTLSV3"><img src="./assets/get it on store.png"></a>
+<a href="https://github.com/yaichenbaum/Quick-Pad/releases"><img height="50" src="./assets/view on github.jpg"></a>
