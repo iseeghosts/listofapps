@@ -25,7 +25,7 @@ Windows Notepad app has been there since Windows xp (or maybe even older than th
 ### Notepads
 <a href="https://www.microsoft.com/store/productId/9NHL4NSC67WM"><img src="./assets/get it on store.png"></a><br /><br /><a href="https://github.com/JasonStein/Notepads/releases"><img height="53" src="./assets/view on github.jpg"></a>
 
-Other notable apps include:
+# Other notable apps include:
 WinDynamic Desktop - [Store](https://www.microsoft.com/store/productId/9NM8N7DQ3Z5F), [Github](https://github.com/t1m0thyj/WinDynamicDesktop/releases),
 
 taskbarX - [Store](https://www.microsoft.com/store/productId/9PCMZ6BXK8GH), [github](https://github.com/ChrisAnd1998/TaskbarX/releases),
